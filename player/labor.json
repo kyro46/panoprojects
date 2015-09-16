@@ -1,0 +1,40 @@
+{
+	"title": "&Uuml;bungsraum",
+	"author": "Med. Fakult&auml;t; Foto: C. Jobst",
+	"autoLoad": true,
+	"compass": false,
+	"hfov": 100,
+	"pitch": 0,
+	"yaw": 0,
+	"type": "equirectangular",
+	"panorama": "../pimages/labor.jpg",
+	"hotSpots": [
+		{
+			"pitch": 5,
+			"yaw": -30,
+			"type": "info",
+			"text": "Ich bin ein Link - klick mich!",
+			"URL": "http://www.medizin.uni-halle.de"
+		},
+		{
+			"pitch": -5,
+			"yaw": 27,
+			"type": "info",
+			"text": "Blaue Fl&uuml;ssigkeit"
+		},
+		{
+			"pitch": 10,
+			"yaw": -190,
+			"type": "info",
+			"text": "Ich bin auch ein Link",
+			"URL": "http://www.medizin.uni-halle.de"
+		},
+		{
+			"pitch": -15,
+			"yaw": -80,
+			"type": "scene",
+			"text": "Hier k&ouml;nnte es zu einem weiteren Panorama gehen",
+			"sceneId": "labor"
+		}
+	]
+}
