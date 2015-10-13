@@ -1,6 +1,6 @@
 {
-	"title": "&Uuml;bungsraum",
-	"author": "Med. Fakult&auml;t; Foto: C. Jobst",
+	"title": "MS6-SR4",
+	"author": "C. Jobst@LLZ",
 	"autoLoad": true,
 	"compass": false,
 	"hfov": 100,
@@ -10,31 +10,60 @@
 	"panorama": "../pimages/labor.jpg",
 	"hotSpots": [
 		{
-			"pitch": 5,
-			"yaw": -30,
+			"pitch": -10,
+			"yaw": -65,
 			"type": "info",
-			"text": "Ich bin ein Link - klick mich!",
-			"URL": "http://www.medizin.uni-halle.de"
+			"text": "Venöse Blutabnahme",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75048_35438&client_id=unihalle"
+		},
+		{
+			"pitch": 6,
+			"yaw": 11,
+			"type": "info",
+			"text": "Kapilläre Blutabnahme",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75050_35438&client_id=unihalle"
+		},
+		{
+			"pitch": 0,
+			"yaw": 11,
+			"type": "info",
+			"text": "Bestimmung des Hämatokrit",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75062_35438&client_id=unihalle"
+		},
+		{
+			"pitch": 2,
+			"yaw": -14,
+			"type": "info",
+			"text": "Zentrifugation des Venenblutes",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75051_35438&client_id=unihalle"
+		},
+		{
+			"pitch": 0,
+			"yaw": -160,
+			"type": "info",
+			"text": "Zählen der Erythrozyten (MCV) am Mikroskop",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75068_35438&client_id=unihalle"
+		},
+		{
+			"pitch": 0,
+			"yaw": -190,
+			"type": "info",
+			"text": "Plättchenaggregation und Gerinnung",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75079_35438&client_id=unihalle"
 		},
 		{
 			"pitch": -5,
-			"yaw": 27,
+			"yaw": 30,
 			"type": "info",
-			"text": "Blaue Fl&uuml;ssigkeit"
+			"text": "Quicktest und Fibrinolyse",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75099_35438&client_id=unihalle"
 		},
 		{
-			"pitch": 10,
-			"yaw": -190,
+			"pitch": 0,
+			"yaw": -2,
 			"type": "info",
-			"text": "Ich bin auch ein Link",
-			"URL": "http://www.medizin.uni-halle.de"
-		},
-		{
-			"pitch": -15,
-			"yaw": -80,
-			"type": "scene",
-			"text": "Hier k&ouml;nnte es zu einem weiteren Panorama gehen",
-			"sceneId": "labor"
+			"text": "aPTT",
+			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75141_35438&client_id=unihalle"
 		}
 	]
 }
