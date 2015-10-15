@@ -3,7 +3,7 @@
 	"author": "C. Jobst@LLZ",
 	"autoLoad": true,
 	"compass": false,
-	"autoRotate": 0.5,
+	"autoRotate": -0.5,
 	"autoRotateInactivityDelay": 5000,
 	"hfov": 100,
 	"pitch": 0,
