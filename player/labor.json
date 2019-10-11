@@ -16,56 +16,48 @@
 			"yaw": -65,
 			"type": "info",
 			"text": "Venöse Blutabnahme",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75048_35438&client_id=unihalle"
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110932_81354&client_id=unihalle"
 		},
 		{
-			"pitch": 6,
+			"pitch": 3,
 			"yaw": 11,
 			"type": "info",
-			"text": "Kapilläre Blutabnahme",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75050_35438&client_id=unihalle"
-		},
-		{
-			"pitch": 0,
-			"yaw": 11,
-			"type": "info",
-			"text": "Bestimmung des Hämatokrit",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75062_35438&client_id=unihalle"
+			"text": "Kapilläre Blutabnahme"
 		},
 		{
 			"pitch": 2,
 			"yaw": -14,
 			"type": "info",
 			"text": "Zentrifugation des Venenblutes",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75051_35438&client_id=unihalle"
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110935_81354&client_id=unihalle"
 		},
 		{
-			"pitch": 0,
-			"yaw": -160,
-			"type": "info",
-			"text": "Zählen der Erythrozyten (MCV) am Mikroskop",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75068_35438&client_id=unihalle"
-		},
-		{
-			"pitch": 0,
-			"yaw": -190,
+			"pitch": -8,
+			"yaw": -200,
 			"type": "info",
 			"text": "Plättchenaggregation und Gerinnung",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75079_35438&client_id=unihalle"
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110938_81354&client_id=unihalle"
 		},
 		{
 			"pitch": -5,
-			"yaw": 30,
+			"yaw": 25,
 			"type": "info",
-			"text": "Quicktest und Fibrinolyse",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75099_35438&client_id=unihalle"
+			"text": "Quicktest",
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110953_81354&client_id=unihalle"
+		},
+		{
+			"pitch": -5,
+			"yaw": 31,
+			"type": "info",
+			"text": "Fibrinolyse",
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110973_81354&client_id=unihalle"
 		},
 		{
 			"pitch": 0,
 			"yaw": -2,
 			"type": "info",
 			"text": "aPTT",
-			"URL": "http://ilias.uni-halle.de/goto.php?target=pg_75141_35438&client_id=unihalle"
+			"URL": "https://ilias.uni-halle.de/goto.php?target=pg_110955_81354&client_id=unihalle"
 		}
 	]
 }
